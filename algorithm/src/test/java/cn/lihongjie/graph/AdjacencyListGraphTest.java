@@ -98,4 +98,21 @@ class AdjacencyListGraphTest {
         assertEquals(Arrays.asList(3, 4), graph.path(3, 4));
         assertEquals(Arrays.asList(1, 0, 2), graph.path(1, 2));
     }
+
+    @Test
+    void testBFS() {
+
+        AdjacencyListGraph graph = new AdjacencyListGraph(5);
+
+
+        graph.addEdge(0, 1);
+        graph.addEdge(0, 2);
+        graph.addEdge(3, 4);
+        assertEquals(Arrays.asList(0, 1, 2), graph.bfs(0));
+        assertEquals(Arrays.asList(1,0,2), graph.bfs(1));
+        assertEquals(Arrays.asList(2,0, 1), graph.bfs(2));
+        assertEquals(Arrays.asList(3,4), graph.bfs(3));
+        assertEquals(Arrays.asList(4,3), graph.bfs(4));
+
+    }
 }

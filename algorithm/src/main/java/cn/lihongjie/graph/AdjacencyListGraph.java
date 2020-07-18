@@ -112,4 +112,41 @@ public class AdjacencyListGraph {
         }
         return ans;
     }
+
+
+    public List<Integer> bfs(int start) {
+
+
+        LinkedList<Integer> queue = new LinkedList<>();
+        boolean[] marker = new boolean[vertexCount];
+
+        queue.add(start);
+
+        ArrayList<Integer> ans = new ArrayList<>();
+
+        while (!queue.isEmpty()) {
+
+            Integer first = queue.pollFirst();
+
+            if (marker[first]) {
+                continue;
+            }
+
+            ans.add(first);
+
+            marker[first] = true;
+
+
+            Set<Integer> c = list.get(first);
+            for (Integer integer : c) {
+                queue.add(integer);
+
+            }
+
+
+        }
+
+
+        return ans;
+    }
 }
