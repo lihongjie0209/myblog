@@ -5,7 +5,7 @@ name: toc-gen
 
 on:
   schedule:
-    - cron: "'*/5 * * * *'"
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
