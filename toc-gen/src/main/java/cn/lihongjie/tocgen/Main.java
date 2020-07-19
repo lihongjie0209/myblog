@@ -3,6 +3,8 @@ package cn.lihongjie.tocgen;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
+import freemarker.template.TemplateExceptionHandler;
+import lombok.extern.slf4j.Slf4j;
 import org.commonmark.node.*;
 import org.commonmark.parser.Parser;
 import org.commonmark.renderer.html.HtmlRenderer;
@@ -13,7 +15,7 @@ import java.nio.charset.StandardCharsets;
 import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.stream.Collectors;
-
+@Slf4j
 public class Main {
 
 
@@ -37,6 +39,7 @@ public class Main {
         configuration.setClassLoaderForTemplateLoading(Main.class.getClassLoader(), "template");
         // 设置config的默认字符集。一般是utf-8
         configuration.setDefaultEncoding("utf-8");
+        configuration.setTemplateExceptionHandler(TemplateExceptionHandler.DEBUG_HANDLER);
         //从config对象中获得模板对象。需要制定一个模板文件的名字。
         Template template = configuration.getTemplate("README.ftl");
         Writer out = new OutputStreamWriter(new FileOutputStream(new File("./README.md")), StandardCharsets.UTF_8);
@@ -55,6 +58,8 @@ public class Main {
         HashMap<String, List<GHIssue>> map = new HashMap<>();
         for (GHIssue ghIssue : ghIssues) {
             Collection<GHLabel> labels = ghIssue.getLabels();
+
+            log.info("发现 " + ghIssue.toString());
 
             for (GHLabel label : labels) {
 

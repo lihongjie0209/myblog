@@ -1,6 +1,6 @@
 <#list data as k,v>
 ## ${k}
     <#list v as i>
-- [${i.title} (${i.createdAt?string('yyyy-MM-dd HH:mm:ss')})](${i.htmlUrl})
+- [${i.getTitle()} (${i.getCreatedAt()?string('yyyy-MM-dd HH:mm:ss')})](${i.getHtmlUrl().toString()})
     </#list>
 </#list>
