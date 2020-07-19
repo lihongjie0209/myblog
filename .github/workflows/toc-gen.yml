@@ -27,7 +27,8 @@ jobs:
     - name: push toc
       uses: EndBug/add-and-commit@v4
       with:
-
+        author_name: lihongjie0209
+        author_email: lihongjie0209@gmail.com
         message: "update toc"
         add: "README.md"
       env:
