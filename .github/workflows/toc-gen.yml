@@ -4,6 +4,7 @@
 name: toc-gen
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '*/5 * * * *'
 
