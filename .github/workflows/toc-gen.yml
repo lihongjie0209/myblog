@@ -4,7 +4,7 @@
 name: toc-gen
 
 on:
-  schedules:
+  schedule:
   - cron: "* * * * *"
 
 jobs:
