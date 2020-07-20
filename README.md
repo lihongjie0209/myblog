@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-07-20 05:14:44
+本文档由toc-gen自动生成， 生成时间 2020-07-20 05:25:58
 ## Vue源码阅读 2.6.x
 - [Vue源码阅读： 前言 (2020-06-11 05:32:02)](https://github.com/lihongjie0209/myblog/issues/1)
 - [Vue源码阅读： Vue的初始化 (2020-06-11 05:40:33)](https://github.com/lihongjie0209/myblog/issues/2)
@@ -48,6 +48,8 @@
 - [Linux: Rsyslog (2020-07-19 08:40:03)](https://github.com/lihongjie0209/myblog/issues/58)
 - [Linux: sudo (2020-07-19 13:31:50)](https://github.com/lihongjie0209/myblog/issues/59)
 - [Linux: awk (2020-07-19 15:02:03)](https://github.com/lihongjie0209/myblog/issues/60)
+- [Linux: ftp (2020-07-20 05:23:08)](https://github.com/lihongjie0209/myblog/issues/61)
+- [Linux: PAM (2020-07-20 05:25:30)](https://github.com/lihongjie0209/myblog/issues/62)
 ## IDEA
 - [IDEA 技巧 (2020-07-08 15:16:54)](https://github.com/lihongjie0209/myblog/issues/24)
 - [IDEA: 更新maven仓库索引失败解决办法 (2020-07-18 13:48:24)](https://github.com/lihongjie0209/myblog/issues/56)
