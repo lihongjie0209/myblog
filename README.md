@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-07-23 05:33:21
+本文档由toc-gen自动生成， 生成时间 2020-07-23 05:42:23
 ## Vue源码阅读 2.6.x
 - [Vue源码阅读： 前言 (2020-06-11 05:32:02)](https://github.com/lihongjie0209/myblog/issues/1)
 - [Vue源码阅读： Vue的初始化 (2020-06-11 05:40:33)](https://github.com/lihongjie0209/myblog/issues/2)
@@ -34,6 +34,7 @@
 ## redis
 - [Redis: Slow log (2020-07-22 15:10:02)](https://github.com/lihongjie0209/myblog/issues/74)
 - [Redis: pipeline (2020-07-22 15:23:34)](https://github.com/lihongjie0209/myblog/issues/75)
+- [Redis: 持久化 (2020-07-23 05:34:52)](https://github.com/lihongjie0209/myblog/issues/77)
 ## docker
 - [Docker: 前言 (2020-07-17 09:31:55)](https://github.com/lihongjie0209/myblog/issues/52)
 ## ansible
