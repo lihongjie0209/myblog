@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-08-08 13:43:24
+本文档由toc-gen自动生成， 生成时间 2020-08-08 13:52:29
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
@@ -113,6 +113,8 @@
 - [MongoDB: 索引 (2020-07-13 15:03:45)](https://github.com/lihongjie0209/myblog/issues/41)
 ## 阅读笔记
 - [阅读笔记： Marty Lobdell - Study Less Study Smart  (2020-06-26 05:14:15)](https://github.com/lihongjie0209/myblog/issues/19)
+## Mybatis
+- [Mybatis: 动态切换数据源的思考 (2020-08-08 13:38:30)](https://github.com/lihongjie0209/myblog/issues/106)
 ## Kubernetes
 - [Kubernetes: 前言 (2020-07-25 09:45:57)](https://github.com/lihongjie0209/myblog/issues/81)
 - [Kubernetes: 部署 (2020-07-25 09:47:21)](https://github.com/lihongjie0209/myblog/issues/82)
