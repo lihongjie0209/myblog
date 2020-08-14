@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-08-14 15:54:54
+本文档由toc-gen自动生成， 生成时间 2020-08-14 16:12:46
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
@@ -79,6 +79,7 @@
 - [Quartz: 使用 (2020-07-21 13:22:58)](https://github.com/lihongjie0209/myblog/issues/69)
 ## RabbitMQ
 - [RabbitMQ: 镜像队列 (2020-08-14 12:42:09)](https://github.com/lihongjie0209/myblog/issues/117)
+- [RabbitMQ: 配置 (2020-08-14 12:53:49)](https://github.com/lihongjie0209/myblog/issues/118)
 ## Jenkins
 - [Jenkins: 与docker一起协作 (2020-08-10 12:47:08)](https://github.com/lihongjie0209/myblog/issues/111)
 ## 分布式ID
