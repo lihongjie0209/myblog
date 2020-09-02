@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-09-02 14:10:28
+本文档由toc-gen自动生成， 生成时间 2020-09-02 14:24:57
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
@@ -80,6 +80,7 @@
 ## 网络
 - [CSMA: 载波侦听多路访问 (2020-09-02 12:19:33)](https://github.com/lihongjie0209/myblog/issues/143)
 - [令牌环 (2020-09-02 12:22:45)](https://github.com/lihongjie0209/myblog/issues/144)
+- [串行通信 (2020-09-02 13:36:03)](https://github.com/lihongjie0209/myblog/issues/145)
 ## Spring MVC 源码
 - [Spring MVC: 前言 (2020-06-23 12:55:07)](https://github.com/lihongjie0209/myblog/issues/16)
 - [Spring MVC: DispatcherServlet (2020-06-23 13:55:27)](https://github.com/lihongjie0209/myblog/issues/17)
