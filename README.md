@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-09-06 09:18:17
+本文档由toc-gen自动生成， 生成时间 2020-09-06 09:27:00
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
@@ -154,6 +154,7 @@
 - [Vmware虚拟机磁盘扩容 (2020-08-26 14:21:59)](https://github.com/lihongjie0209/myblog/issues/135)
 - [Linux: PXE (2020-08-30 14:40:42)](https://github.com/lihongjie0209/myblog/issues/142)
 - [机械硬盘: CHS (2020-09-06 08:00:44)](https://github.com/lihongjie0209/myblog/issues/159)
+- [主引导记录 (2020-09-06 08:19:34)](https://github.com/lihongjie0209/myblog/issues/160)
 ## Netty
 - [Netty: Linux IO模型 (2020-08-02 01:37:50)](https://github.com/lihongjie0209/myblog/issues/98)
 - [Netty: ChannelHandler (2020-08-02 13:52:39)](https://github.com/lihongjie0209/myblog/issues/100)
