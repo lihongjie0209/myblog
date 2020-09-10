@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-09-10 14:08:41
+本文档由toc-gen自动生成， 生成时间 2020-09-10 14:25:05
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
@@ -57,6 +57,7 @@
 - [MySQL: doublewrite  (2020-09-09 14:41:35)](https://github.com/lihongjie0209/myblog/issues/167)
 - [How InnoDB handles REDO logging (2020-09-09 15:17:30)](https://github.com/lihongjie0209/myblog/issues/168)
 - [MySQL重置Root密码 (2020-09-10 12:09:19)](https://github.com/lihongjie0209/myblog/issues/169)
+- [MySQL: checkpoint (2020-09-10 14:15:24)](https://github.com/lihongjie0209/myblog/issues/170)
 ## 分布式缓存
 - [分布式缓存: 前言 (2020-07-23 02:25:33)](https://github.com/lihongjie0209/myblog/issues/76)
 - [分布式缓存: 本地缓存 (2020-08-01 03:41:35)](https://github.com/lihongjie0209/myblog/issues/94)
