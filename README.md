@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-09-25 07:20:54
+本文档由toc-gen自动生成， 生成时间 2020-09-25 07:29:43
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
@@ -77,6 +77,7 @@
 ## Spring Security
 - [Spring Security: FilterChainProxy (2020-09-24 07:04:47)](https://github.com/lihongjie0209/myblog/issues/180)
 - [Spring Security: Form Login (2020-09-24 07:25:32)](https://github.com/lihongjie0209/myblog/issues/181)
+- [Spring Security: Authorization (2020-09-25 07:29:31)](https://github.com/lihongjie0209/myblog/issues/183)
 ## Logback源码分析
 - [Logback源码分析: Logger (2020-07-11 14:15:35)](https://github.com/lihongjie0209/myblog/issues/32)
 - [Logback: MDC (2020-08-05 02:08:55)](https://github.com/lihongjie0209/myblog/issues/103)
