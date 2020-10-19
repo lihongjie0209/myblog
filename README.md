@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-10-19 05:14:47
+本文档由toc-gen自动生成， 生成时间 2020-10-19 05:30:39
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
@@ -136,6 +136,7 @@
 - [AVL Tree (2020-09-17 09:04:36)](https://github.com/lihongjie0209/myblog/issues/176)
 ## Spring Cloud
 - [Spring Cloud: Stream (2020-10-15 14:19:30)](https://github.com/lihongjie0209/myblog/issues/203)
+- [Spring Cloud: Sleuth (2020-10-17 08:27:25)](https://github.com/lihongjie0209/myblog/issues/204)
 ## Zabbix
 - [Linux: Zabbix (2020-08-21 03:22:56)](https://github.com/lihongjie0209/myblog/issues/130)
 ## RocketMQ
