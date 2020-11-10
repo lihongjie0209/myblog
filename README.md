@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-11-10 08:53:19
+本文档由toc-gen自动生成， 生成时间 2020-11-10 09:05:27
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
@@ -155,12 +155,13 @@
 - [RocketMQ: 架构 (2020-08-15 05:21:06)](https://github.com/lihongjie0209/myblog/issues/119)
 - [RocketMQ: DefaultMQPushConsumer  (2020-08-16 07:55:45)](https://github.com/lihongjie0209/myblog/issues/120)
 - [RocketMQ: DefaultMQProduce  (2020-08-16 09:22:03)](https://github.com/lihongjie0209/myblog/issues/121)
-## Spring AMQP
-- [Spring AMQP: 源码阅读 (2020-11-09 15:21:13)](https://github.com/lihongjie0209/myblog/issues/221)
 ## RabbitMQ
 - [RabbitMQ: 镜像队列 (2020-08-14 12:42:09)](https://github.com/lihongjie0209/myblog/issues/117)
 - [RabbitMQ: 配置 (2020-08-14 12:53:49)](https://github.com/lihongjie0209/myblog/issues/118)
 - [RabbitMQ: 确认机制 (2020-11-09 05:47:22)](https://github.com/lihongjie0209/myblog/issues/220)
+- [RabbitMQ : 运维相关 (2020-11-10 08:43:38)](https://github.com/lihongjie0209/myblog/issues/222)
+## Spring AMQP
+- [Spring AMQP: 源码阅读 (2020-11-09 15:21:13)](https://github.com/lihongjie0209/myblog/issues/221)
 ## Jenkins
 - [Jenkins: 与docker一起协作 (2020-08-10 12:47:08)](https://github.com/lihongjie0209/myblog/issues/111)
 ## 分布式ID
