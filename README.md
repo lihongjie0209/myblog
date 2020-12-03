@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-12-03 05:33:40
+本文档由toc-gen自动生成， 生成时间 2020-12-03 05:42:10
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -176,6 +176,8 @@
 ## Ehcache3源码阅读
 - [Ehcache3源码阅读: 前言 (2020-06-17 12:07:15)](https://github.com/lihongjie0209/myblog/issues/7)
 - [Ehcache3源码阅读: 初始化 (2020-06-17 12:50:44)](https://github.com/lihongjie0209/myblog/issues/8)
+## 前端
+- [前端: 文件上传的三种方式 (2020-12-03 05:25:46)](https://github.com/lihongjie0209/myblog/issues/240)
 ## docker
 - [Docker: 前言 (2020-07-17 09:31:55)](https://github.com/lihongjie0209/myblog/issues/52)
 - [Docker: 基础知识 (2020-07-25 13:33:26)](https://github.com/lihongjie0209/myblog/issues/83)
