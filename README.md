@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-12-08 08:21:48
+本文档由toc-gen自动生成， 生成时间 2020-12-08 08:51:50
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -75,6 +75,8 @@
 ## Logback源码分析
 - [Logback源码分析: Logger (2020-07-11 14:15:35)](https://github.com/lihongjie0209/myblog/issues/32)
 - [Logback: MDC (2020-08-05 02:08:55)](https://github.com/lihongjie0209/myblog/issues/103)
+## Python
+- [Python: Lambda (2020-12-05 08:03:58)](https://github.com/lihongjie0209/myblog/issues/244)
 ## 离散数学
 - [离散数学：逻辑和证明 (2020-06-26 05:10:21)](https://github.com/lihongjie0209/myblog/issues/18)
 - [离散数学：图论 (2020-06-26 13:30:01)](https://github.com/lihongjie0209/myblog/issues/20)
@@ -225,6 +227,7 @@
 - [CSS: 盒模型 (2020-11-21 08:23:12)](https://github.com/lihongjie0209/myblog/issues/237)
 - [CSS : inline vs block vs inline-block (2020-11-22 02:53:56)](https://github.com/lihongjie0209/myblog/issues/238)
 - [CSS 小技巧 (2020-11-24 05:19:11)](https://github.com/lihongjie0209/myblog/issues/239)
+- [CSS: inline-block 居中 (2020-12-08 08:48:38)](https://github.com/lihongjie0209/myblog/issues/245)
 ## ActiveMQ
 - [ActiveMQ源码阅读： 客户端 (2020-08-09 12:23:21)](https://github.com/lihongjie0209/myblog/issues/109)
 - [ActiveMQ源码阅读： Consumer (2020-08-11 02:02:19)](https://github.com/lihongjie0209/myblog/issues/112)
