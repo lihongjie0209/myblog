@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2020-12-22 08:33:49
+本文档由toc-gen自动生成， 生成时间 2020-12-22 08:59:50
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -169,6 +169,7 @@
 - [Debian 仓库工作原理 (2020-12-20 02:34:23)](https://github.com/lihongjie0209/myblog/issues/250)
 - [Sed: 工作原理 (2020-12-20 09:01:51)](https://github.com/lihongjie0209/myblog/issues/251)
 - [Linux: 使用Aide检查系统文件是否被修改 (2020-12-21 15:46:35)](https://github.com/lihongjie0209/myblog/issues/253)
+- [Linux: lastb 命令 (2020-12-22 08:39:56)](https://github.com/lihongjie0209/myblog/issues/254)
 ## Netty
 - [Netty: Linux IO模型 (2020-08-02 01:37:50)](https://github.com/lihongjie0209/myblog/issues/98)
 - [Netty: ChannelHandler (2020-08-02 13:52:39)](https://github.com/lihongjie0209/myblog/issues/100)
