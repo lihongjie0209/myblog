@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-01-03 14:35:41
+本文档由toc-gen自动生成， 生成时间 2021-01-03 14:56:59
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -112,6 +112,7 @@
 - [消息认证码 (2021-01-03 05:15:16)](https://github.com/lihongjie0209/myblog/issues/261)
 - [数字签名 (2021-01-03 07:11:20)](https://github.com/lihongjie0209/myblog/issues/262)
 - [证书 (2021-01-03 07:17:44)](https://github.com/lihongjie0209/myblog/issues/263)
+- [OpenSSL 自签证书 (2021-01-03 09:23:41)](https://github.com/lihongjie0209/myblog/issues/264)
 ## 数据结构
 - [AVL Tree (2020-09-17 09:04:36)](https://github.com/lihongjie0209/myblog/issues/176)
 ## Spring Cloud
