@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-01-09 08:54:59
+本文档由toc-gen自动生成， 生成时间 2021-01-09 09:28:14
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -66,6 +66,8 @@
 - [MySQL: 手动安装主从 (2020-10-22 06:01:10)](https://github.com/lihongjie0209/myblog/issues/211)
 - [MySQL: 主从原理 (2020-10-24 16:44:14)](https://github.com/lihongjie0209/myblog/issues/214)
 - [MySQL: innodb 内存模型 (2020-10-25 11:48:49)](https://github.com/lihongjie0209/myblog/issues/215)
+## https
+- [Certificate Chain (2021-01-09 09:01:40)](https://github.com/lihongjie0209/myblog/issues/269)
 ## 分布式缓存
 - [分布式缓存: 前言 (2020-07-23 02:25:33)](https://github.com/lihongjie0209/myblog/issues/76)
 - [分布式缓存: 本地缓存 (2020-08-01 03:41:35)](https://github.com/lihongjie0209/myblog/issues/94)
