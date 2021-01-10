@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-01-10 10:47:56
+本文档由toc-gen自动生成， 生成时间 2021-01-10 11:15:31
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -289,3 +289,4 @@
 - [Kubernetes: 部署 (2020-07-25 09:47:21)](https://github.com/lihongjie0209/myblog/issues/82)
 - [Kubernetes: Pod (2020-07-26 15:01:24)](https://github.com/lihongjie0209/myblog/issues/86)
 - [Kubernetes: Controller (2020-07-27 07:05:33)](https://github.com/lihongjie0209/myblog/issues/87)
+- [Kubernetes: InitC (2021-01-10 11:06:01)](https://github.com/lihongjie0209/myblog/issues/272)
