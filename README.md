@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-01-26 13:14:11
+本文档由toc-gen自动生成， 生成时间 2021-01-26 13:39:48
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -71,6 +71,9 @@
 - [MySQL: innodb 内存模型 (2020-10-25 11:48:49)](https://github.com/lihongjie0209/myblog/issues/215)
 - [MySQL: 基于GTID的恢复 (2021-01-24 10:02:04)](https://github.com/lihongjie0209/myblog/issues/278)
 - [MySQL: 使用xtrabackup创建主从复制 (2021-01-24 12:08:00)](https://github.com/lihongjie0209/myblog/issues/279)
+- [MySQL: 基本调优 (2021-01-24 12:19:21)](https://github.com/lihongjie0209/myblog/issues/280)
+- [MySQL: 用户和权限 (2021-01-25 07:18:07)](https://github.com/lihongjie0209/myblog/issues/281)
+- [MySQL: show slave status 解释 (2021-01-26 13:31:06)](https://github.com/lihongjie0209/myblog/issues/282)
 ## https
 - [Certificate Chain (2021-01-09 09:01:40)](https://github.com/lihongjie0209/myblog/issues/269)
 - [TLS 协议 (2021-01-10 06:15:33)](https://github.com/lihongjie0209/myblog/issues/270)
