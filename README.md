@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-01-27 03:10:41
+本文档由toc-gen自动生成， 生成时间 2021-01-27 03:38:30
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -197,6 +197,7 @@
 - [Linux: 使用Aide检查系统文件是否被修改 (2020-12-21 15:46:35)](https://github.com/lihongjie0209/myblog/issues/253)
 - [Linux: lastb 命令 (2020-12-22 08:39:56)](https://github.com/lihongjie0209/myblog/issues/254)
 - [Arp-Scan (2020-12-26 02:29:14)](https://github.com/lihongjie0209/myblog/issues/255)
+- [Zero-configuration: 自动配置dns解析 (2021-01-27 03:18:47)](https://github.com/lihongjie0209/myblog/issues/283)
 ## Netty
 - [Netty: Linux IO模型 (2020-08-02 01:37:50)](https://github.com/lihongjie0209/myblog/issues/98)
 - [Netty: ChannelHandler (2020-08-02 13:52:39)](https://github.com/lihongjie0209/myblog/issues/100)
