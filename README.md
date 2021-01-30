@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-01-30 14:39:22
+本文档由toc-gen自动生成， 生成时间 2021-01-30 14:56:56
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -79,6 +79,7 @@
 - [XtraBackup 的流式和压缩备份 (2021-01-28 06:50:49)](https://github.com/lihongjie0209/myblog/issues/286)
 - [MySQL : 冷热数据划分方法 (2021-01-29 08:10:41)](https://github.com/lihongjie0209/myblog/issues/287)
 - [MySQL: 表分区 (2021-01-30 04:54:36)](https://github.com/lihongjie0209/myblog/issues/288)
+- [MySQL: 主备结构 (2021-01-30 14:48:39)](https://github.com/lihongjie0209/myblog/issues/289)
 ## https
 - [Certificate Chain (2021-01-09 09:01:40)](https://github.com/lihongjie0209/myblog/issues/269)
 - [TLS 协议 (2021-01-10 06:15:33)](https://github.com/lihongjie0209/myblog/issues/270)
