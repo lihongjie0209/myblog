@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-02-02 02:50:25
+本文档由toc-gen自动生成， 生成时间 2021-02-02 03:08:01
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -122,6 +122,7 @@
 - [IOS静态路由配置 (2020-09-05 07:21:10)](https://github.com/lihongjie0209/myblog/issues/156)
 - [RIP协议 (2020-09-05 12:32:35)](https://github.com/lihongjie0209/myblog/issues/157)
 - [GPT分区 (2020-09-06 09:27:03)](https://github.com/lihongjie0209/myblog/issues/161)
+- [Nat 类型 (2021-02-02 03:02:17)](https://github.com/lihongjie0209/myblog/issues/296)
 ## 线性代数
 - [线性代数: 基本概念 (2020-09-21 05:32:56)](https://github.com/lihongjie0209/myblog/issues/178)
 ## Spring MVC 源码
