@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-02-09 13:24:03
+本文档由toc-gen自动生成， 生成时间 2021-02-09 13:40:49
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -87,6 +87,7 @@
 - [MySQL: 字符集 (2021-02-02 02:20:32)](https://github.com/lihongjie0209/myblog/issues/295)
 - [MySQL : 读写分离 (2021-02-04 08:12:05)](https://github.com/lihongjie0209/myblog/issues/299)
 - [MySQL : AUTO_INCREMENT Handling in InnoDB (2021-02-05 07:06:45)](https://github.com/lihongjie0209/myblog/issues/300)
+- [数据库调优 (2021-02-09 13:39:01)](https://github.com/lihongjie0209/myblog/issues/301)
 ## https
 - [Certificate Chain (2021-01-09 09:01:40)](https://github.com/lihongjie0209/myblog/issues/269)
 - [TLS 协议 (2021-01-10 06:15:33)](https://github.com/lihongjie0209/myblog/issues/270)
