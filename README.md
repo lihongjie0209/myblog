@@ -1,5 +1,5 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-03-05 06:28:29
+本文档由toc-gen自动生成， 生成时间 2021-03-05 06:52:49
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
@@ -154,6 +154,8 @@
 - [Spring Cloud: Sleuth (2020-10-17 08:27:25)](https://github.com/lihongjie0209/myblog/issues/204)
 ## Zabbix
 - [Linux: Zabbix (2020-08-21 03:22:56)](https://github.com/lihongjie0209/myblog/issues/130)
+## 硬件-磁盘
+- [磁盘: CMR vs SMR (2021-03-05 06:31:45)](https://github.com/lihongjie0209/myblog/issues/303)
 ## Jenkins
 - [Jenkins: 与docker一起协作 (2020-08-10 12:47:08)](https://github.com/lihongjie0209/myblog/issues/111)
 ## Linux
