@@ -1,9 +1,10 @@
 ![toc-gen](https://github.com/lihongjie0209/myblog/workflows/toc-gen/badge.svg?branch=master)
-本文档由toc-gen自动生成， 生成时间 2021-08-23 03:32:25
+本文档由toc-gen自动生成， 生成时间 2021-08-23 03:45:58
 ## Nginx
 - [Nginx: 前言 (2020-07-11 16:47:26)](https://github.com/lihongjie0209/myblog/issues/33)
 - [Nginx: 静态资源服务器 (2020-07-12 01:47:37)](https://github.com/lihongjie0209/myblog/issues/34)
 - [Nginx: Json日志 (2020-08-27 07:31:52)](https://github.com/lihongjie0209/myblog/issues/136)
+- [Nginx gzip 配置 (2021-08-23 03:39:23)](https://github.com/lihongjie0209/myblog/issues/306)
 ## VMware
 - [ESXI虚拟机无法启动：File system specific implementation of LookupAndOpen[file] failed (2020-08-25 07:10:30)](https://github.com/lihongjie0209/myblog/issues/133)
 - [Vmware虚拟机磁盘扩容 (2020-08-26 14:21:59)](https://github.com/lihongjie0209/myblog/issues/135)
